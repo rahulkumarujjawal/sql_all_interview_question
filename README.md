@@ -2,7 +2,6 @@
 Comprehensive SQL interview questions with solutions, explanations, and real-world examples for beginners to advanced levels.
 
 
-# 75 SQL Interview Questions for Data Analysts
 
 **Master the 10 Patterns That Cover 90% of Interviews**
 
